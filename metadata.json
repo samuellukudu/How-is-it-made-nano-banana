@@ -1,0 +1,7 @@
+{
+  "name": "TechDraw AI",
+  "description": "An application that generates 2D and 3D technical drawings from a photo of an object using AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
